@@ -34,7 +34,8 @@ You are provided with following files:
 The Evaluation metric for this competition is accuracy.
 ##  Model Building and Implementation :
  we will go to model building with the help of different Algorithms namely LOGISTIC REGRESSION,DECISION TREE CLASSIFICATION & K-NEAREST NEIGHBOR ClASSIFIER and implement the best model to predict the test dataset.
-
+Finally We have Implemented Our KNN CLASSIFIER model to predict our Test dataset.After implementing the model,also we have checked our Accuracy with the help of Solution_checker.xlsx file.After printing the predictions,the accuracy is auto-generated & it is found that the model accuracy is close to 91%.
+Hence We are going with this model to implement for Prediction of the classification project.
 
 
 
